@@ -1,0 +1,79 @@
+[
+  {
+    "Title": "The Lord of the Rings",
+    "Author": "John Ronald Reuel Tolkien",
+    "IssuanceYear": 1968,
+    "Ratings": {
+      "gio": 5
+    }
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "IssuanceYear": 1960,
+    "Ratings": {}
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "IssuanceYear": 1949,
+    "Ratings": {
+      "gio": 4,
+      "admin": 3
+    }
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Author": "Scott Fitzgerald",
+    "IssuanceYear": 1925,
+    "Ratings": {}
+  },
+  {
+    "Title": "Moby-Dick",
+    "Author": "Herman Melville",
+    "IssuanceYear": 1851,
+    "Ratings": {}
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "IssuanceYear": 1813,
+    "Ratings": {}
+  },
+  {
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "IssuanceYear": 1951,
+    "Ratings": {}
+  },
+  {
+    "Title": "Brave New World",
+    "Author": "Aldous Huxley",
+    "IssuanceYear": 1932,
+    "Ratings": {}
+  },
+  {
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "IssuanceYear": 1937,
+    "Ratings": {}
+  },
+  {
+    "Title": "Fahrenheit 451",
+    "Author": "Ray Bradbury",
+    "IssuanceYear": 1953,
+    "Ratings": {}
+  },
+  {
+    "Title": "War and Peace",
+    "Author": "Leo Tolstoy",
+    "IssuanceYear": 1869,
+    "Ratings": {}
+  },
+  {
+    "Title": "Don Quixote",
+    "Author": "Miguel de Cervantes",
+    "IssuanceYear": 1605,
+    "Ratings": {}
+  }
+]

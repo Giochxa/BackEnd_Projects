@@ -1,0 +1,14 @@
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\bin\Debug\net8.0\BookManagement.exe
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\bin\Debug\net8.0\BookManagement.deps.json
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\bin\Debug\net8.0\BookManagement.runtimeconfig.json
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\bin\Debug\net8.0\BookManagement.dll
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\bin\Debug\net8.0\BookManagement.pdb
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\obj\Debug\net8.0\BookManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\obj\Debug\net8.0\BookManagement.AssemblyInfoInputs.cache
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\obj\Debug\net8.0\BookManagement.AssemblyInfo.cs
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\obj\Debug\net8.0\BookManagement.csproj.CoreCompileInputs.cache
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\obj\Debug\net8.0\BookManagement.dll
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\obj\Debug\net8.0\refint\BookManagement.dll
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\obj\Debug\net8.0\BookManagement.pdb
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\obj\Debug\net8.0\BookManagement.genruntimeconfig.cache
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\obj\Debug\net8.0\ref\BookManagement.dll

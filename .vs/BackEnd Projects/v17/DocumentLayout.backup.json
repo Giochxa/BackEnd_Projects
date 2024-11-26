@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\bookmanagement\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\bookmanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\bookmanagement\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\bookmanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608EBA8E-8788-4A1C-8661-7DEF56125E60}|GuessTheNumber\\GuessTheNumber.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\guessthenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608EBA8E-8788-4A1C-8661-7DEF56125E60}|GuessTheNumber\\GuessTheNumber.csproj|solutionrelative:guessthenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126EDD5-9118-4F4B-A9BB-5EC3EECFEEE1}|BackEnd Projects\\BackEnd Projects.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\backend projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B126EDD5-9118-4F4B-A9BB-5EC3EECFEEE1}|BackEnd Projects\\BackEnd Projects.csproj|solutionrelative:backend projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\UserManager.cs",
+              "RelativeDocumentMoniker": "BookManagement\\UserManager.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\UserManager.cs",
+              "RelativeToolTip": "BookManagement\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:59:52.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\User.cs",
+              "RelativeDocumentMoniker": "BookManagement\\User.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\User.cs",
+              "RelativeToolTip": "BookManagement\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:59:30.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\BookManager.cs",
+              "RelativeDocumentMoniker": "BookManagement\\BookManager.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\BookManager.cs",
+              "RelativeToolTip": "BookManagement\\BookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:58:25.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\Book.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Book.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\Book.cs",
+              "RelativeToolTip": "BookManagement\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:57:59.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\Program.cs",
+              "RelativeToolTip": "BookManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:57:30.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\GuessTheNumber\\Program.cs",
+              "RelativeDocumentMoniker": "GuessTheNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\GuessTheNumber\\Program.cs",
+              "RelativeToolTip": "GuessTheNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:55:07.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BackEnd Projects\\Program.cs",
+              "RelativeDocumentMoniker": "BackEnd Projects\\Program.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BackEnd Projects\\Program.cs",
+              "RelativeToolTip": "BackEnd Projects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:52:37.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
