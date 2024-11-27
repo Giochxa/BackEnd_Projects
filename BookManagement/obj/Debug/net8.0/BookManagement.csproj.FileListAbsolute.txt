@@ -12,3 +12,4 @@ C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\obj\Debug
 C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\obj\Debug\net8.0\BookManagement.pdb
 C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\obj\Debug\net8.0\BookManagement.genruntimeconfig.cache
 C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\obj\Debug\net8.0\ref\BookManagement.dll
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BookManagement\obj\Debug\net8.0\BookManagement.sourcelink.json

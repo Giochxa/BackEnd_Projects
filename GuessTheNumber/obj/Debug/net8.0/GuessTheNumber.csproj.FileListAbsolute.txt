@@ -12,3 +12,4 @@ C:\Users\george.chkhaidze\source\repos\BackEnd Projects\GuessTheNumber\obj\Debug
 C:\Users\george.chkhaidze\source\repos\BackEnd Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.pdb
 C:\Users\george.chkhaidze\source\repos\BackEnd Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.genruntimeconfig.cache
 C:\Users\george.chkhaidze\source\repos\BackEnd Projects\GuessTheNumber\obj\Debug\net8.0\ref\GuessTheNumber.dll
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.sourcelink.json

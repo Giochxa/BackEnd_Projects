@@ -19,3 +19,24 @@ C:\Users\george.chkhaidze\source\repos\ATM\ATM\bin\Debug\net5.0\NLog.config
 C:\Users\george.chkhaidze\source\repos\ATM\ATM\bin\Debug\net5.0\NLog.dll
 C:\Users\george.chkhaidze\source\repos\ATM\ATM\obj\Debug\net5.0\BANKING_APPLICATION.sourcelink.json
 C:\Users\george.chkhaidze\source\repos\ATM\ATM\obj\Debug\net5.0\BANKING_.7E7E86F0.Up2Date
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\bin\Debug\net5.0\NLog.config
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\bin\Debug\net5.0\BANKING_APPLICATION.exe
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\bin\Debug\net5.0\BANKING_APPLICATION.deps.json
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\bin\Debug\net5.0\BANKING_APPLICATION.runtimeconfig.json
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\bin\Debug\net5.0\BANKING_APPLICATION.runtimeconfig.dev.json
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\bin\Debug\net5.0\BANKING_APPLICATION.dll
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\bin\Debug\net5.0\BANKING_APPLICATION.pdb
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\bin\Debug\net5.0\NLog.dll
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\obj\Debug\net5.0\BANKING_APPLICATION.csproj.AssemblyReference.cache
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\obj\Debug\net5.0\BANKING_APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\obj\Debug\net5.0\BANKING_APPLICATION.AssemblyInfoInputs.cache
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\obj\Debug\net5.0\BANKING_APPLICATION.AssemblyInfo.cs
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\obj\Debug\net5.0\BANKING_APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\obj\Debug\net5.0\BANKING_APPLICATION.sourcelink.json
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\obj\Debug\net5.0\BANKING_.7E7E86F0.Up2Date
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\obj\Debug\net5.0\BANKING_APPLICATION.dll
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\obj\Debug\net5.0\refint\BANKING_APPLICATION.dll
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\obj\Debug\net5.0\BANKING_APPLICATION.pdb
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\obj\Debug\net5.0\BANKING_APPLICATION.genruntimeconfig.cache
+C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\obj\Debug\net5.0\ref\BANKING_APPLICATION.dll

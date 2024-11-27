@@ -38,17 +38,21 @@ public class BookManager
         }
     }
 
-    // Search books by title (containing string) and display results in console
+    // Search books by title, author or issuance year (containing string) and display results in console
     public void SearchBooksByTitle(string title)
     {
-        var matchingBooks = books.Where(b => b.Title.Contains(title, StringComparison.OrdinalIgnoreCase)).ToList();
+        var matchingBooks = books
+        .Where(b => b.Title.Contains(title, StringComparison.OrdinalIgnoreCase) ||
+                    b.Author.Contains(title, StringComparison.OrdinalIgnoreCase) ||
+                    b.IssuanceYear.ToString().Contains(title))
+        .ToList();
 
         if (matchingBooks.Any())
         {
             Console.WriteLine("\nBooks matching the search:\n");
             foreach (var book in matchingBooks)
             {
-                Console.WriteLine(book.Title);
+                Console.WriteLine($"Title: {book.Title}, Author: {book.Author}, Issuance Year: {book.IssuanceYear}");
             }
         }
         else

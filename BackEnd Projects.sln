@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "BackEnd Projects\Calculator.csproj", "{B126EDD5-9118-4F4B-A9BB-5EC3EECFEEE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{608EBA8E-8788-4A1C-8661-7DEF56125E60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{608EBA8E-8788-4A1C-8661-7DEF56125E60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookManagement", "BookManagement\BookManagement.csproj", "{1C104CA6-CB79-427B-98CC-820A72F9F6CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManagement", "BookManagement\BookManagement.csproj", "{1C104CA6-CB79-427B-98CC-820A72F9F6CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BANKING_APPLICATION", "BANKING_APPLICATION\BANKING_APPLICATION.csproj", "{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BANKING_APPLICATION", "BANKING_APPLICATION\BANKING_APPLICATION.csproj", "{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{5685008B-6B1F-40E8-BA4B-28F55B1739A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B126EDD5-9118-4F4B-A9BB-5EC3EECFEEE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B126EDD5-9118-4F4B-A9BB-5EC3EECFEEE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B126EDD5-9118-4F4B-A9BB-5EC3EECFEEE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B126EDD5-9118-4F4B-A9BB-5EC3EECFEEE1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{608EBA8E-8788-4A1C-8661-7DEF56125E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{608EBA8E-8788-4A1C-8661-7DEF56125E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{608EBA8E-8788-4A1C-8661-7DEF56125E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5685008B-6B1F-40E8-BA4B-28F55B1739A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5685008B-6B1F-40E8-BA4B-28F55B1739A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5685008B-6B1F-40E8-BA4B-28F55B1739A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5685008B-6B1F-40E8-BA4B-28F55B1739A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,3 +14,8 @@ testsf,8
 Anonymous,7
 Anonymous,14
 Player,6
+Frank,7
+Kate,5
+Anonymous,2
+Anonymous,8
+Anonymous,8

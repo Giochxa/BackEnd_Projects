@@ -17,7 +17,7 @@ namespace BookManagement
                 Console.WriteLine("2. Login");
                 Console.WriteLine("3. Add a new book");
                 Console.WriteLine("4. View all books");
-                Console.WriteLine("5. Search books by title");
+                Console.WriteLine("5. Search books by title, author or issuance year");
                 Console.WriteLine("6. Rate a book");
                 Console.WriteLine("7. Logout");
                 Console.WriteLine("8. Exit");
@@ -122,7 +122,7 @@ namespace BookManagement
 
         static void SearchBooks(BookManager bookManager)
         {
-            Console.Write("Enter the title to search: ");
+            Console.Write("Enter the text to search: ");
             string title = Console.ReadLine();
             bookManager.SearchBooksByTitle(title);
         }

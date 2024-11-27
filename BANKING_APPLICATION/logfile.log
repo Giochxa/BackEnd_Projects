@@ -3,7 +3,7 @@
  Call Site: Program.Main
  Exception Type: System.DivideByZeroException
  Exception Message: Attempted to divide by zero.
- Stack Trace:    at Program.Main() in C:\Users\george.chkhaidze\source\repos\ATM\ATM\Program.cs:line 20
+ Stack Trace:    at Program.Main() in C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\Program.cs:line 20
  Additional Info: Error: Attempted to divide by zero.
 
  -------------- Error (2024-01-12 18:13:03.4637) --------------
@@ -11,7 +11,7 @@
  Call Site: Program.Main
  Exception Type: System.DivideByZeroException
  Exception Message: Attempted to divide by zero.
- Stack Trace:    at Program.Main() in C:\Users\george.chkhaidze\source\repos\ATM\ATM\Program.cs:line 20
+ Stack Trace:    at Program.Main() in C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\Program.cs:line 20
  Additional Info: Error: Attempted to divide by zero.
 
  -------------- Error (2024-11-22 15:10:23.9902) --------------
@@ -26,7 +26,7 @@
    at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
    at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
    at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
-   at BANKING_APPLICATION.CurrencyService.FetchCurrencyDataAsync() in C:\Users\george.chkhaidze\source\repos\ATM\ATM\CurrencyService.cs:line 19
-   at BANKING_APPLICATION.BankingApplication.ChangeAmount(CardholderData data) in C:\Users\george.chkhaidze\source\repos\ATM\ATM\BankingApplication.cs:line 689
+   at BANKING_APPLICATION.CurrencyService.FetchCurrencyDataAsync() in C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\CurrencyService.cs:line 19
+   at BANKING_APPLICATION.BankingApplication.ChangeAmount(CardholderData data) in C:\Users\george.chkhaidze\source\repos\BackEnd Projects\BANKING_APPLICATION\BankingApplication.cs:line 689
  Additional Info: Error: One or more errors occurred. (No such host is known. (nbg.gov.ge:443))
 

@@ -3,6 +3,57 @@
   "WorkspaceRootPath": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\bookmanagement\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\bookmanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}|BANKING_APPLICATION\\BANKING_APPLICATION.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\banking_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}|BANKING_APPLICATION\\BANKING_APPLICATION.csproj|solutionrelative:banking_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608EBA8E-8788-4A1C-8661-7DEF56125E60}|GuessTheNumber\\GuessTheNumber.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\guessthenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608EBA8E-8788-4A1C-8661-7DEF56125E60}|GuessTheNumber\\GuessTheNumber.csproj|solutionrelative:guessthenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}|BANKING_APPLICATION\\BANKING_APPLICATION.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\banking_application\\cardinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}|BANKING_APPLICATION\\BANKING_APPLICATION.csproj|solutionrelative:banking_application\\cardinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}|BANKING_APPLICATION\\BANKING_APPLICATION.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\banking_application\\logfile.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}|BANKING_APPLICATION\\BANKING_APPLICATION.csproj|solutionrelative:banking_application\\logfile.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}|BANKING_APPLICATION\\BANKING_APPLICATION.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\banking_application\\bankingapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}|BANKING_APPLICATION\\BANKING_APPLICATION.csproj|solutionrelative:banking_application\\bankingapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}|BANKING_APPLICATION\\BANKING_APPLICATION.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\banking_application\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}|BANKING_APPLICATION\\BANKING_APPLICATION.csproj|solutionrelative:banking_application\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}|BANKING_APPLICATION\\BANKING_APPLICATION.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\banking_application\\carddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}|BANKING_APPLICATION\\BANKING_APPLICATION.csproj|solutionrelative:banking_application\\carddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}|BANKING_APPLICATION\\BANKING_APPLICATION.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\banking_application\\cardholderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}|BANKING_APPLICATION\\BANKING_APPLICATION.csproj|solutionrelative:banking_application\\cardholderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3935D4F-8E19-4FEB-AEC8-268B1588D03A}|BANKING_APPLICATION\\BANKING_APPLICATION.csproj|c:\\users\\george.chkhaidze\\.nuget\\packages\\nlog.config\\4.7.15\\contentfiles\\any\\any\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5685008B-6B1F-40E8-BA4B-28F55B1739A3}|Calculator\\Calculator.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5685008B-6B1F-40E8-BA4B-28F55B1739A3}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\bookmanagement\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +62,8 @@
       "RelativeMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\bookmanagement\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\bookmanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C104CA6-CB79-427B-98CC-820A72F9F6CE}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{608EBA8E-8788-4A1C-8661-7DEF56125E60}|GuessTheNumber\\GuessTheNumber.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\guessthenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{608EBA8E-8788-4A1C-8661-7DEF56125E60}|GuessTheNumber\\GuessTheNumber.csproj|solutionrelative:guessthenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B126EDD5-9118-4F4B-A9BB-5EC3EECFEEE1}|BackEnd Projects\\BackEnd Projects.csproj|c:\\users\\george.chkhaidze\\source\\repos\\backend projects\\backend projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B126EDD5-9118-4F4B-A9BB-5EC3EECFEEE1}|BackEnd Projects\\BackEnd Projects.csproj|solutionrelative:backend projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BackEnd Projects\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd Projects\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +73,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 318,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "logfile.log",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\logfile.log",
+              "RelativeDocumentMoniker": "BANKING_APPLICATION\\logfile.log",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\logfile.log",
+              "RelativeToolTip": "BANKING_APPLICATION\\logfile.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-27T11:59:09.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-27T11:50:21.051Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\Transaction.cs",
+              "RelativeDocumentMoniker": "BANKING_APPLICATION\\Transaction.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\Transaction.cs",
+              "RelativeToolTip": "BANKING_APPLICATION\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:56:05.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cardInfo.json",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\cardInfo.json",
+              "RelativeDocumentMoniker": "BANKING_APPLICATION\\cardInfo.json",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\cardInfo.json",
+              "RelativeToolTip": "BANKING_APPLICATION\\cardInfo.json",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T11:50:22.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:54:10.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\Program.cs",
+              "RelativeDocumentMoniker": "BANKING_APPLICATION\\Program.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\Program.cs",
+              "RelativeToolTip": "BANKING_APPLICATION\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:02:35.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "UserManager.cs",
               "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\UserManager.cs",
               "RelativeDocumentMoniker": "BookManagement\\UserManager.cs",
               "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\UserManager.cs",
               "RelativeToolTip": "BookManagement\\UserManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T09:59:52.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\User.cs",
               "RelativeDocumentMoniker": "BookManagement\\User.cs",
@@ -68,68 +181,105 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookManager.cs",
-              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\BookManager.cs",
-              "RelativeDocumentMoniker": "BookManagement\\BookManager.cs",
-              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\BookManager.cs",
-              "RelativeToolTip": "BookManagement\\BookManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T09:58:25.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\Book.cs",
-              "RelativeDocumentMoniker": "BookManagement\\Book.cs",
-              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\Book.cs",
-              "RelativeToolTip": "BookManagement\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T09:57:59.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\Program.cs",
-              "RelativeDocumentMoniker": "BookManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\Program.cs",
-              "RelativeToolTip": "BookManagement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T09:57:30.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\GuessTheNumber\\Program.cs",
               "RelativeDocumentMoniker": "GuessTheNumber\\Program.cs",
               "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\GuessTheNumber\\Program.cs",
               "RelativeToolTip": "GuessTheNumber\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T09:55:07.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\Program.cs*",
+              "RelativeToolTip": "BookManagement\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wBMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:57:30.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\Book.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Book.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\Book.cs",
+              "RelativeToolTip": "BookManagement\\Book.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:57:59.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\BookManager.cs",
+              "RelativeDocumentMoniker": "BookManagement\\BookManager.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BookManagement\\BookManager.cs*",
+              "RelativeToolTip": "BookManagement\\BookManager.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAIA6wCgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:58:25.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CardholderData.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\CardholderData.cs",
+              "RelativeDocumentMoniker": "BANKING_APPLICATION\\CardholderData.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\CardholderData.cs",
+              "RelativeToolTip": "BANKING_APPLICATION\\CardholderData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:00:03.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CardDetails.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\CardDetails.cs",
+              "RelativeDocumentMoniker": "BANKING_APPLICATION\\CardDetails.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\CardDetails.cs",
+              "RelativeToolTip": "BANKING_APPLICATION\\CardDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:00:05.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankingApplication.cs",
+              "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\BankingApplication.cs",
+              "RelativeDocumentMoniker": "BANKING_APPLICATION\\BankingApplication.cs",
+              "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\BankingApplication.cs",
+              "RelativeToolTip": "BANKING_APPLICATION\\BankingApplication.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAADgv+sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:00:06.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BackEnd Projects\\Program.cs",
               "RelativeDocumentMoniker": "BackEnd Projects\\Program.cs",
               "ToolTip": "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BackEnd Projects\\Program.cs",
               "RelativeToolTip": "BackEnd Projects\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T09:52:37.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T09:52:37.176Z"
             }
           ]
         }

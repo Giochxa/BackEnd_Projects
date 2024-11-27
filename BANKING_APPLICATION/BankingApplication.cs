@@ -16,7 +16,7 @@ namespace BANKING_APPLICATION
     {
         public static CardholderData Validation()
         {
-            string jsonFilePath = "C:\\Users\\george.chkhaidze\\source\\repos\\ATM\\ATM\\cardInfo.json";
+            string jsonFilePath = "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\cardInfo.json";
             try
             {
                 CardholderData[] userData = LoadUserData(jsonFilePath);
@@ -235,7 +235,7 @@ namespace BANKING_APPLICATION
                 };
 
                 // Specify the file path
-                var filePath = "C:\\Users\\george.chkhaidze\\source\\repos\\ATM\\ATM\\cardInfo.json";
+                var filePath = "C:\\Users\\george.chkhaidze\\source\\repos\\BackEnd Projects\\BANKING_APPLICATION\\cardInfo.json";
 
                 // Read existing data from the file
                 string jsonContent = File.ReadAllText(filePath);

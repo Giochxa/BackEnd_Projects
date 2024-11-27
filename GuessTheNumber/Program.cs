@@ -88,7 +88,10 @@ namespace GuessTheNumber
                 Console.Write("Do you want to play again? (Y/N): ");
                 string playAgainInput = Console.ReadLine();
                 playAgain = playAgainInput.Trim().ToUpper() == "Y";
-
+                if (playAgain)
+                {
+                    Console.Clear();
+                }
             } while (playAgain);
 
             Console.WriteLine("Thank you for playing! Goodbye!");
